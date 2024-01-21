@@ -1,7 +1,7 @@
 # Odin-recipes
 My first project!
 Recipes
-<p>This project is focused creating a basic website with recipes.</p>
+<p>This project is focused on creating a basic website with three selected food recipes.</p>
 <h4>Learned concepts:</h4>
 <ul>
     <li>Links</li>
